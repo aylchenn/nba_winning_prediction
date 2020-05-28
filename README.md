@@ -6,5 +6,10 @@ The goal of this project is to predict the winner of a given NBA match using his
 ### Data
 Two files containing games information of 3 seasons from 2013-2016. 
 **Team Data**
+
 ![Image of team data]
-()
+(https://raw.githubusercontent.com/aylchenn/nba_winning_prediction/master/Team_Data1.png)
+
+**Player Data**
+![Image of player data]
+(https://raw.githubusercontent.com/aylchenn/nba_winning_prediction/master/Player_Data1.png)
